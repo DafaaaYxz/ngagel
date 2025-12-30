@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Source Code Hub",
+  "description": "A premium cyberpunk-minimalist platform for sharing and downloading high-quality source code projects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
